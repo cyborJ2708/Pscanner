@@ -23,7 +23,7 @@ print(name)
 
 #Define our target
 
-
+target = socket.gethostbyname
 
 if len(sys.argv) == 2:
       target = socket.gethostbyname(sys.argv[1])
