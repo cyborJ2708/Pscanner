@@ -34,7 +34,7 @@ else:
 
 #Add banner
 print("-" * 50)
-print("Scanning Target" + target)
+print("Scanning Target " + target)
 print("Time started: "+str(datetime.now()))
 print("-" * 50)
 
